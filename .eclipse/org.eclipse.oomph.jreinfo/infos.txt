@@ -1,0 +1,2 @@
+C:\Program Files\Java\jdk-18.0.1.1;18;0;1;64;true;1652387763393;x86_64
+C:\Program Files\Microsoft\jdk-11.0.15.10-hotspot;11;0;15;64;true;1650410270000;x86_64
